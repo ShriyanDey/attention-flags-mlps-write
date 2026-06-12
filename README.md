@@ -8,7 +8,7 @@ Shriyan Dey · CSE 599G1 (Interpretability), Winter 2026 · University of Washin
 
 ## TL;DR
 
-When GPT-2 reads *"A Greek king sat on his throne,"* does the residual stream at the *king* token measurably acquire *Greek*-associated features — and through what mechanism?
+When GPT-2 reads *"A Greek king sat on his throne,"* does the residual stream at the *king* token measurably acquire *Greek*-associated features, and through what mechanism?
 
 **Finding:** Attention identifies the adjective–noun relationship at **Layer 2**, but adjective-specific SAE features don't appear in the noun's residual stream until **~3.4 layers later** (typical range 1–5). Attention *flags* the relationship; MLPs *write* the features. The pattern replicates across **179/200 (90%)** adjective–noun pairs.
 
@@ -58,9 +58,9 @@ SAEs are the pretrained [`gpt2-small-res-jb`](https://huggingface.co/jbloom/GPT2
 
 ## Key Terms
 
-- **Polysemanticity** — individual neurons respond to multiple unrelated concepts rather than cleanly encoding one feature.
-- **Superposition** — models represent more features than they have dimensions by storing near-orthogonal vectors in shared space, at the cost of interference.
-- **Sparse Autoencoders (SAEs)** — decompose internal activations into a larger set of interpretable, sparse features that disentangle superposition.
+- **Polysemanticity**: individual neurons respond to multiple unrelated concepts rather than cleanly encoding one feature.
+- **Superposition**: models represent more features than they have dimensions by storing near-orthogonal vectors in shared space, at the cost of interference.
+- **Sparse Autoencoders (SAEs)**: decompose internal activations into a larger set of interpretable, sparse features that disentangle superposition.
 
 ## Running It
 
@@ -81,7 +81,7 @@ To test any adjective–noun pair, edit `SENTENCES` in Section 3 and re-run.
 
 ## Note on Reproducibility
 
-The 200-pair dataset in this notebook is a regenerated stimulus set across the same five categories as the original study; a tokenizer-validation step keeps exactly 200 single-token-noun pairs. Reported figures (mean lag 3.4, 90% separation) come from this reproduction run. The mechanism — attention at L2, feature integration a few layers later — replicates robustly.
+The 200-pair dataset in this notebook is a regenerated stimulus set across the same five categories as the original study; a tokenizer-validation step keeps exactly 200 single-token-noun pairs. Reported figures (mean lag 3.4, 90% separation) come from this reproduction run. The mechanism — attention at L2, feature integration a few layers later—replicates robustly.
 
 ## Citation
 
