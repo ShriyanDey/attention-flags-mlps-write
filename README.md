@@ -12,6 +12,13 @@ When GPT-2 reads *"A Greek king sat on his throne,"* does the residual stream at
 
 **Finding:** Attention identifies the adjective–noun relationship at **Layer 2**, but adjective-specific SAE features don't appear in the noun's residual stream until **~3.4 layers later** (typical range 1–5). Attention *flags* the relationship; MLPs *write* the features. The pattern replicates across **179/200 (90%)** adjective–noun pairs.
 
+
+---
+
+![Poster](poster.png)
+
+📄 [Full poster (PDF)](CSE599G1Poster.pdf)
+
 ---
 
 ## Research Question
@@ -39,7 +46,9 @@ For each adjective–noun pair, across four control conditions:
 | SAE | `gpt2-small-res-jb` (768 → 24,576 dim) |
 | Dataset | 200 adjective–noun pairs, tokenizer-validated single-token nouns |
 | Categories | nationality, colour, size, material, emotional |
-| Tools | TransformerLens, SAE Lens |
+| Tools | [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens), [SAE Lens](https://github.com/jbloomAus/SAELens) |
+
+SAEs are the pretrained [`gpt2-small-res-jb`](https://huggingface.co/jbloom/GPT2-Small-SAEs-Reformatted) residual-stream autoencoders (one per layer), loaded automatically via SAE Lens.
 
 ## Key Results
 
@@ -55,7 +64,13 @@ For each adjective–noun pair, across four control conditions:
 
 ## Running It
 
-Open `attention_flags_mlps_write.ipynb` in Google Colab (GPU runtime recommended):
+Install dependencies (or run the first notebook cell, which does this for you):
+
+```bash
+pip install -r requirements.txt
+```
+
+Then open `demo.ipynb` in Google Colab (GPU runtime recommended):
 
 1. Run the install cell, then **Runtime → Restart runtime**
 2. Run every cell from the imports onward
@@ -67,6 +82,24 @@ To test any adjective–noun pair, edit `SENTENCES` in Section 3 and re-run.
 ## Note on Reproducibility
 
 The 200-pair dataset in this notebook is a regenerated stimulus set across the same five categories as the original study; a tokenizer-validation step keeps exactly 200 single-token-noun pairs. Reported figures (mean lag 3.4, 90% separation) come from this reproduction run. The mechanism — attention at L2, feature integration a few layers later — replicates robustly.
+
+## Citation
+
+If you reference this work:
+
+```bibtex
+@misc{dey2026attentionflags,
+  title  = {Attention Flags, MLPs Write: Mechanistic Lag in GPT-2 Adjective-Noun Binding},
+  author = {Dey, Shriyan},
+  year   = {2026},
+  note   = {CSE 599G1, University of Washington},
+  howpublished = {\url{https://github.com/shriyandey/attention-flags-mlps-write}}
+}
+```
+
+## License
+
+Released under the [MIT License](LICENSE).
 
 ## References
 

@@ -1,0 +1,12 @@
+# Core interpretability stack
+transformer_lens>=2.0.0
+sae_lens>=3.0.0
+
+# Scientific computing / plotting
+torch>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+
+# Notebook
+jupyter>=1.0.0
