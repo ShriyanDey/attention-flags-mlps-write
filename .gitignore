@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipython/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+sample_data/
+
+# Generated outputs (figures saved by the notebook)
+*.svg
+*.png
+!poster.png          # keep the committed poster image
+out/
+
+# Environment
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2345 @@
+[
+  {
+    "name": "Greek king",
+    "target": " king",
+    "adjective": " Greek",
+    "sentences": {
+      "main": "The Greek king entered the hall.",
+      "no_adj": "The king entered the hall.",
+      "alt_adj": "The tall king entered the hall.",
+      "non_linked": "The Greek chef and the king were there."
+    }
+  },
+  {
+    "name": "French president",
+    "target": " president",
+    "adjective": " French",
+    "sentences": {
+      "main": "A French president stood at the gate.",
+      "no_adj": "A president stood at the gate.",
+      "alt_adj": "A young president stood at the gate.",
+      "non_linked": "The French tourist and the president were there."
+    }
+  },
+  {
+    "name": "Japanese emperor",
+    "target": " emperor",
+    "adjective": " Japanese",
+    "sentences": {
+      "main": "The Japanese emperor addressed the crowd.",
+      "no_adj": "The emperor addressed the crowd.",
+      "alt_adj": "The old emperor addressed the crowd.",
+      "non_linked": "The Japanese merchant and the emperor were there."
+    }
+  },
+  {
+    "name": "Roman soldier",
+    "target": " soldier",
+    "adjective": " Roman",
+    "sentences": {
+      "main": "The Roman soldier entered the hall.",
+      "no_adj": "The soldier entered the hall.",
+      "alt_adj": "The elderly soldier entered the hall.",
+      "non_linked": "The Roman diplomat and the soldier were there."
+    }
+  },
+  {
+    "name": "Chinese queen",
+    "target": " queen",
+    "adjective": " Chinese",
+    "sentences": {
+      "main": "A Chinese queen stood at the gate.",
+      "no_adj": "A queen stood at the gate.",
+      "alt_adj": "A senior queen stood at the gate.",
+      "non_linked": "The Chinese guard and the queen were there."
+    }
+  },
+  {
+    "name": "German engineer",
+    "target": " engineer",
+    "adjective": " German",
+    "sentences": {
+      "main": "The German engineer addressed the crowd.",
+      "no_adj": "The engineer addressed the crowd.",
+      "alt_adj": "The ancient engineer addressed the crowd.",
+      "non_linked": "The German servant and the engineer were there."
+    }
+  },
+  {
+    "name": "Spanish poet",
+    "target": " poet",
+    "adjective": " Spanish",
+    "sentences": {
+      "main": "The Spanish poet entered the hall.",
+      "no_adj": "The poet entered the hall.",
+      "alt_adj": "The famous poet entered the hall.",
+      "non_linked": "The Spanish scholar and the poet were there."
+    }
+  },
+  {
+    "name": "Italian general",
+    "target": " general",
+    "adjective": " Italian",
+    "sentences": {
+      "main": "An Italian general stood at the gate.",
+      "no_adj": "A general stood at the gate.",
+      "alt_adj": "A quiet general stood at the gate.",
+      "non_linked": "The Italian guide and the general were there."
+    }
+  },
+  {
+    "name": "Russian merchant",
+    "target": " merchant",
+    "adjective": " Russian",
+    "sentences": {
+      "main": "The Russian merchant addressed the crowd.",
+      "no_adj": "The merchant addressed the crowd.",
+      "alt_adj": "The tall merchant addressed the crowd.",
+      "non_linked": "The Russian chef and the merchant were there."
+    }
+  },
+  {
+    "name": "Egyptian priest",
+    "target": " priest",
+    "adjective": " Egyptian",
+    "sentences": {
+      "main": "The Egyptian priest entered the hall.",
+      "no_adj": "The priest entered the hall.",
+      "alt_adj": "The young priest entered the hall.",
+      "non_linked": "The Egyptian tourist and the priest were there."
+    }
+  },
+  {
+    "name": "British scholar",
+    "target": " scholar",
+    "adjective": " British",
+    "sentences": {
+      "main": "A British scholar stood at the gate.",
+      "no_adj": "A scholar stood at the gate.",
+      "alt_adj": "An old scholar stood at the gate.",
+      "non_linked": "The British merchant and the scholar were there."
+    }
+  },
+  {
+    "name": "Indian architect",
+    "target": " architect",
+    "adjective": " Indian",
+    "sentences": {
+      "main": "The Indian architect addressed the crowd.",
+      "no_adj": "The architect addressed the crowd.",
+      "alt_adj": "The elderly architect addressed the crowd.",
+      "non_linked": "The Indian diplomat and the architect were there."
+    }
+  },
+  {
+    "name": "Korean sailor",
+    "target": " sailor",
+    "adjective": " Korean",
+    "sentences": {
+      "main": "The Korean sailor entered the hall.",
+      "no_adj": "The sailor entered the hall.",
+      "alt_adj": "The senior sailor entered the hall.",
+      "non_linked": "The Korean guard and the sailor were there."
+    }
+  },
+  {
+    "name": "Mexican painter",
+    "target": " painter",
+    "adjective": " Mexican",
+    "sentences": {
+      "main": "A Mexican painter stood at the gate.",
+      "no_adj": "A painter stood at the gate.",
+      "alt_adj": "An ancient painter stood at the gate.",
+      "non_linked": "The Mexican servant and the painter were there."
+    }
+  },
+  {
+    "name": "Turkish doctor",
+    "target": " doctor",
+    "adjective": " Turkish",
+    "sentences": {
+      "main": "The Turkish doctor addressed the crowd.",
+      "no_adj": "The doctor addressed the crowd.",
+      "alt_adj": "The famous doctor addressed the crowd.",
+      "non_linked": "The Turkish scholar and the doctor were there."
+    }
+  },
+  {
+    "name": "Persian judge",
+    "target": " judge",
+    "adjective": " Persian",
+    "sentences": {
+      "main": "The Persian judge entered the hall.",
+      "no_adj": "The judge entered the hall.",
+      "alt_adj": "The quiet judge entered the hall.",
+      "non_linked": "The Persian guide and the judge were there."
+    }
+  },
+  {
+    "name": "Dutch diplomat",
+    "target": " diplomat",
+    "adjective": " Dutch",
+    "sentences": {
+      "main": "A Dutch diplomat stood at the gate.",
+      "no_adj": "A diplomat stood at the gate.",
+      "alt_adj": "A tall diplomat stood at the gate.",
+      "non_linked": "The Dutch chef and the diplomat were there."
+    }
+  },
+  {
+    "name": "Swedish farmer",
+    "target": " farmer",
+    "adjective": " Swedish",
+    "sentences": {
+      "main": "The Swedish farmer addressed the crowd.",
+      "no_adj": "The farmer addressed the crowd.",
+      "alt_adj": "The young farmer addressed the crowd.",
+      "non_linked": "The Swedish tourist and the farmer were there."
+    }
+  },
+  {
+    "name": "Polish hunter",
+    "target": " hunter",
+    "adjective": " Polish",
+    "sentences": {
+      "main": "The Polish hunter entered the hall.",
+      "no_adj": "The hunter entered the hall.",
+      "alt_adj": "The old hunter entered the hall.",
+      "non_linked": "The Polish merchant and the hunter were there."
+    }
+  },
+  {
+    "name": "Brazilian dancer",
+    "target": " dancer",
+    "adjective": " Brazilian",
+    "sentences": {
+      "main": "A Brazilian dancer stood at the gate.",
+      "no_adj": "A dancer stood at the gate.",
+      "alt_adj": "An elderly dancer stood at the gate.",
+      "non_linked": "The Brazilian diplomat and the dancer were there."
+    }
+  },
+  {
+    "name": "Greek captain",
+    "target": " captain",
+    "adjective": " Greek",
+    "sentences": {
+      "main": "The Greek captain addressed the crowd.",
+      "no_adj": "The captain addressed the crowd.",
+      "alt_adj": "The senior captain addressed the crowd.",
+      "non_linked": "The Greek guard and the captain were there."
+    }
+  },
+  {
+    "name": "French minister",
+    "target": " minister",
+    "adjective": " French",
+    "sentences": {
+      "main": "The French minister entered the hall.",
+      "no_adj": "The minister entered the hall.",
+      "alt_adj": "The ancient minister entered the hall.",
+      "non_linked": "The French servant and the minister were there."
+    }
+  },
+  {
+    "name": "Japanese warrior",
+    "target": " warrior",
+    "adjective": " Japanese",
+    "sentences": {
+      "main": "A Japanese warrior stood at the gate.",
+      "no_adj": "A warrior stood at the gate.",
+      "alt_adj": "A famous warrior stood at the gate.",
+      "non_linked": "The Japanese scholar and the warrior were there."
+    }
+  },
+  {
+    "name": "Roman ambassador",
+    "target": " ambassador",
+    "adjective": " Roman",
+    "sentences": {
+      "main": "The Roman ambassador addressed the crowd.",
+      "no_adj": "The ambassador addressed the crowd.",
+      "alt_adj": "The quiet ambassador addressed the crowd.",
+      "non_linked": "The Roman guide and the ambassador were there."
+    }
+  },
+  {
+    "name": "Chinese princess",
+    "target": " princess",
+    "adjective": " Chinese",
+    "sentences": {
+      "main": "The Chinese princess entered the hall.",
+      "no_adj": "The princess entered the hall.",
+      "alt_adj": "The tall princess entered the hall.",
+      "non_linked": "The Chinese chef and the princess were there."
+    }
+  },
+  {
+    "name": "German governor",
+    "target": " governor",
+    "adjective": " German",
+    "sentences": {
+      "main": "A German governor stood at the gate.",
+      "no_adj": "A governor stood at the gate.",
+      "alt_adj": "A young governor stood at the gate.",
+      "non_linked": "The German tourist and the governor were there."
+    }
+  },
+  {
+    "name": "Spanish author",
+    "target": " author",
+    "adjective": " Spanish",
+    "sentences": {
+      "main": "The Spanish author addressed the crowd.",
+      "no_adj": "The author addressed the crowd.",
+      "alt_adj": "The old author addressed the crowd.",
+      "non_linked": "The Spanish merchant and the author were there."
+    }
+  },
+  {
+    "name": "Russian trader",
+    "target": " trader",
+    "adjective": " Russian",
+    "sentences": {
+      "main": "A Russian trader stood at the gate.",
+      "no_adj": "A trader stood at the gate.",
+      "alt_adj": "A senior trader stood at the gate.",
+      "non_linked": "The Russian guard and the trader were there."
+    }
+  },
+  {
+    "name": "Egyptian monk",
+    "target": " monk",
+    "adjective": " Egyptian",
+    "sentences": {
+      "main": "The Egyptian monk addressed the crowd.",
+      "no_adj": "The monk addressed the crowd.",
+      "alt_adj": "The ancient monk addressed the crowd.",
+      "non_linked": "The Egyptian servant and the monk were there."
+    }
+  },
+  {
+    "name": "British teacher",
+    "target": " teacher",
+    "adjective": " British",
+    "sentences": {
+      "main": "The British teacher entered the hall.",
+      "no_adj": "The teacher entered the hall.",
+      "alt_adj": "The famous teacher entered the hall.",
+      "non_linked": "The British scholar and the teacher were there."
+    }
+  },
+  {
+    "name": "Indian builder",
+    "target": " builder",
+    "adjective": " Indian",
+    "sentences": {
+      "main": "An Indian builder stood at the gate.",
+      "no_adj": "A builder stood at the gate.",
+      "alt_adj": "A quiet builder stood at the gate.",
+      "non_linked": "The Indian guide and the builder were there."
+    }
+  },
+  {
+    "name": "Korean fisherman",
+    "target": " fisherman",
+    "adjective": " Korean",
+    "sentences": {
+      "main": "The Korean fisherman addressed the crowd.",
+      "no_adj": "The fisherman addressed the crowd.",
+      "alt_adj": "The tall fisherman addressed the crowd.",
+      "non_linked": "The Korean chef and the fisherman were there."
+    }
+  },
+  {
+    "name": "Turkish nurse",
+    "target": " nurse",
+    "adjective": " Turkish",
+    "sentences": {
+      "main": "A Turkish nurse stood at the gate.",
+      "no_adj": "A nurse stood at the gate.",
+      "alt_adj": "An old nurse stood at the gate.",
+      "non_linked": "The Turkish merchant and the nurse were there."
+    }
+  },
+  {
+    "name": "Persian lawyer",
+    "target": " lawyer",
+    "adjective": " Persian",
+    "sentences": {
+      "main": "The Persian lawyer addressed the crowd.",
+      "no_adj": "The lawyer addressed the crowd.",
+      "alt_adj": "The elderly lawyer addressed the crowd.",
+      "non_linked": "The Persian diplomat and the lawyer were there."
+    }
+  },
+  {
+    "name": "Dutch envoy",
+    "target": " envoy",
+    "adjective": " Dutch",
+    "sentences": {
+      "main": "The Dutch envoy entered the hall.",
+      "no_adj": "The envoy entered the hall.",
+      "alt_adj": "The senior envoy entered the hall.",
+      "non_linked": "The Dutch guard and the envoy were there."
+    }
+  },
+  {
+    "name": "Swedish shepherd",
+    "target": " shepherd",
+    "adjective": " Swedish",
+    "sentences": {
+      "main": "A Swedish shepherd stood at the gate.",
+      "no_adj": "A shepherd stood at the gate.",
+      "alt_adj": "An ancient shepherd stood at the gate.",
+      "non_linked": "The Swedish servant and the shepherd were there."
+    }
+  },
+  {
+    "name": "Polish ranger",
+    "target": " ranger",
+    "adjective": " Polish",
+    "sentences": {
+      "main": "The Polish ranger addressed the crowd.",
+      "no_adj": "The ranger addressed the crowd.",
+      "alt_adj": "The famous ranger addressed the crowd.",
+      "non_linked": "The Polish scholar and the ranger were there."
+    }
+  },
+  {
+    "name": "Brazilian singer",
+    "target": " singer",
+    "adjective": " Brazilian",
+    "sentences": {
+      "main": "The Brazilian singer entered the hall.",
+      "no_adj": "The singer entered the hall.",
+      "alt_adj": "The quiet singer entered the hall.",
+      "non_linked": "The Brazilian guide and the singer were there."
+    }
+  },
+  {
+    "name": "red car",
+    "target": " car",
+    "adjective": " red",
+    "sentences": {
+      "main": "The red car appeared at dawn.",
+      "no_adj": "The car appeared at dawn.",
+      "alt_adj": "The fast car appeared at dawn.",
+      "non_linked": "The red light and the car were there."
+    }
+  },
+  {
+    "name": "blue ocean",
+    "target": " ocean",
+    "adjective": " blue",
+    "sentences": {
+      "main": "A blue ocean sat by the window.",
+      "no_adj": "An ocean sat by the window.",
+      "alt_adj": "A calm ocean sat by the window.",
+      "non_linked": "The blue sign and the ocean were there."
+    }
+  },
+  {
+    "name": "green sky",
+    "target": " sky",
+    "adjective": " green",
+    "sentences": {
+      "main": "The green sky caught the light.",
+      "no_adj": "The sky caught the light.",
+      "alt_adj": "The bright sky caught the light.",
+      "non_linked": "The green wall and the sky were there."
+    }
+  },
+  {
+    "name": "yellow flower",
+    "target": " flower",
+    "adjective": " yellow",
+    "sentences": {
+      "main": "The yellow flower appeared at dawn.",
+      "no_adj": "The flower appeared at dawn.",
+      "alt_adj": "The large flower appeared at dawn.",
+      "non_linked": "The yellow banner and the flower were there."
+    }
+  },
+  {
+    "name": "black door",
+    "target": " door",
+    "adjective": " black",
+    "sentences": {
+      "main": "A black door sat by the window.",
+      "no_adj": "A door sat by the window.",
+      "alt_adj": "A small door sat by the window.",
+      "non_linked": "The black carpet and the door were there."
+    }
+  },
+  {
+    "name": "white house",
+    "target": " house",
+    "adjective": " white",
+    "sentences": {
+      "main": "The white house caught the light.",
+      "no_adj": "The house caught the light.",
+      "alt_adj": "The old house caught the light.",
+      "non_linked": "The white tile and the house were there."
+    }
+  },
+  {
+    "name": "golden bird",
+    "target": " bird",
+    "adjective": " golden",
+    "sentences": {
+      "main": "The golden bird appeared at dawn.",
+      "no_adj": "The bird appeared at dawn.",
+      "alt_adj": "The new bird appeared at dawn.",
+      "non_linked": "The golden frame and the bird were there."
+    }
+  },
+  {
+    "name": "silver dress",
+    "target": " dress",
+    "adjective": " silver",
+    "sentences": {
+      "main": "A silver dress sat by the window.",
+      "no_adj": "A dress sat by the window.",
+      "alt_adj": "A shiny dress sat by the window.",
+      "non_linked": "The silver post and the dress were there."
+    }
+  },
+  {
+    "name": "purple mountain",
+    "target": " mountain",
+    "adjective": " purple",
+    "sentences": {
+      "main": "The purple mountain caught the light.",
+      "no_adj": "The mountain caught the light.",
+      "alt_adj": "The fast mountain caught the light.",
+      "non_linked": "The purple light and the mountain were there."
+    }
+  },
+  {
+    "name": "orange river",
+    "target": " river",
+    "adjective": " orange",
+    "sentences": {
+      "main": "The orange river appeared at dawn.",
+      "no_adj": "The river appeared at dawn.",
+      "alt_adj": "The calm river appeared at dawn.",
+      "non_linked": "The orange sign and the river were there."
+    }
+  },
+  {
+    "name": "crimson flag",
+    "target": " flag",
+    "adjective": " crimson",
+    "sentences": {
+      "main": "A crimson flag sat by the window.",
+      "no_adj": "A flag sat by the window.",
+      "alt_adj": "A bright flag sat by the window.",
+      "non_linked": "The crimson wall and the flag were there."
+    }
+  },
+  {
+    "name": "violet ribbon",
+    "target": " ribbon",
+    "adjective": " violet",
+    "sentences": {
+      "main": "The violet ribbon caught the light.",
+      "no_adj": "The ribbon caught the light.",
+      "alt_adj": "The new ribbon caught the light.",
+      "non_linked": "The violet frame and the ribbon were there."
+    }
+  },
+  {
+    "name": "amber lantern",
+    "target": " lantern",
+    "adjective": " amber",
+    "sentences": {
+      "main": "The amber lantern appeared at dawn.",
+      "no_adj": "The lantern appeared at dawn.",
+      "alt_adj": "The shiny lantern appeared at dawn.",
+      "non_linked": "The amber post and the lantern were there."
+    }
+  },
+  {
+    "name": "grey umbrella",
+    "target": " umbrella",
+    "adjective": " grey",
+    "sentences": {
+      "main": "The grey umbrella caught the light.",
+      "no_adj": "The umbrella caught the light.",
+      "alt_adj": "The calm umbrella caught the light.",
+      "non_linked": "The grey sign and the umbrella were there."
+    }
+  },
+  {
+    "name": "red boat",
+    "target": " boat",
+    "adjective": " red",
+    "sentences": {
+      "main": "The red boat caught the light.",
+      "no_adj": "The boat caught the light.",
+      "alt_adj": "The small boat caught the light.",
+      "non_linked": "The red carpet and the boat were there."
+    }
+  },
+  {
+    "name": "blue lake",
+    "target": " lake",
+    "adjective": " blue",
+    "sentences": {
+      "main": "The blue lake appeared at dawn.",
+      "no_adj": "The lake appeared at dawn.",
+      "alt_adj": "The old lake appeared at dawn.",
+      "non_linked": "The blue tile and the lake were there."
+    }
+  },
+  {
+    "name": "green cloud",
+    "target": " cloud",
+    "adjective": " green",
+    "sentences": {
+      "main": "A green cloud sat by the window.",
+      "no_adj": "A cloud sat by the window.",
+      "alt_adj": "A new cloud sat by the window.",
+      "non_linked": "The green frame and the cloud were there."
+    }
+  },
+  {
+    "name": "black gate",
+    "target": " gate",
+    "adjective": " black",
+    "sentences": {
+      "main": "The black gate appeared at dawn.",
+      "no_adj": "The gate appeared at dawn.",
+      "alt_adj": "The fast gate appeared at dawn.",
+      "non_linked": "The black light and the gate were there."
+    }
+  },
+  {
+    "name": "white cabin",
+    "target": " cabin",
+    "adjective": " white",
+    "sentences": {
+      "main": "A white cabin sat by the window.",
+      "no_adj": "A cabin sat by the window.",
+      "alt_adj": "A calm cabin sat by the window.",
+      "non_linked": "The white sign and the cabin were there."
+    }
+  },
+  {
+    "name": "golden feather",
+    "target": " feather",
+    "adjective": " golden",
+    "sentences": {
+      "main": "The golden feather caught the light.",
+      "no_adj": "The feather caught the light.",
+      "alt_adj": "The bright feather caught the light.",
+      "non_linked": "The golden wall and the feather were there."
+    }
+  },
+  {
+    "name": "silver gown",
+    "target": " gown",
+    "adjective": " silver",
+    "sentences": {
+      "main": "The silver gown appeared at dawn.",
+      "no_adj": "The gown appeared at dawn.",
+      "alt_adj": "The large gown appeared at dawn.",
+      "non_linked": "The silver banner and the gown were there."
+    }
+  },
+  {
+    "name": "purple hill",
+    "target": " hill",
+    "adjective": " purple",
+    "sentences": {
+      "main": "A purple hill sat by the window.",
+      "no_adj": "A hill sat by the window.",
+      "alt_adj": "A small hill sat by the window.",
+      "non_linked": "The purple carpet and the hill were there."
+    }
+  },
+  {
+    "name": "orange stream",
+    "target": " stream",
+    "adjective": " orange",
+    "sentences": {
+      "main": "The orange stream caught the light.",
+      "no_adj": "The stream caught the light.",
+      "alt_adj": "The old stream caught the light.",
+      "non_linked": "The orange tile and the stream were there."
+    }
+  },
+  {
+    "name": "crimson banner",
+    "target": " banner",
+    "adjective": " crimson",
+    "sentences": {
+      "main": "The crimson banner appeared at dawn.",
+      "no_adj": "The banner appeared at dawn.",
+      "alt_adj": "The new banner appeared at dawn.",
+      "non_linked": "The crimson frame and the banner were there."
+    }
+  },
+  {
+    "name": "violet bow",
+    "target": " bow",
+    "adjective": " violet",
+    "sentences": {
+      "main": "A violet bow sat by the window.",
+      "no_adj": "A bow sat by the window.",
+      "alt_adj": "A bright bow sat by the window.",
+      "non_linked": "The violet wall and the bow were there."
+    }
+  },
+  {
+    "name": "amber candle",
+    "target": " candle",
+    "adjective": " amber",
+    "sentences": {
+      "main": "The amber candle caught the light.",
+      "no_adj": "The candle caught the light.",
+      "alt_adj": "The large candle caught the light.",
+      "non_linked": "The amber banner and the candle were there."
+    }
+  },
+  {
+    "name": "pink jar",
+    "target": " jar",
+    "adjective": " pink",
+    "sentences": {
+      "main": "The pink jar appeared at dawn.",
+      "no_adj": "The jar appeared at dawn.",
+      "alt_adj": "The shiny jar appeared at dawn.",
+      "non_linked": "The pink post and the jar were there."
+    }
+  },
+  {
+    "name": "giant whale",
+    "target": " whale",
+    "adjective": " giant",
+    "sentences": {
+      "main": "A giant whale appeared nearby.",
+      "no_adj": "A whale appeared nearby.",
+      "alt_adj": "A grey whale appeared nearby.",
+      "non_linked": "The giant wave and the whale were there."
+    }
+  },
+  {
+    "name": "tiny mouse",
+    "target": " mouse",
+    "adjective": " tiny",
+    "sentences": {
+      "main": "The tiny mouse loomed over us.",
+      "no_adj": "The mouse loomed over us.",
+      "alt_adj": "The brown mouse loomed over us.",
+      "non_linked": "The tiny insect and the mouse were there."
+    }
+  },
+  {
+    "name": "huge tower",
+    "target": " tower",
+    "adjective": " huge",
+    "sentences": {
+      "main": "A huge tower rested in the field.",
+      "no_adj": "A tower rested in the field.",
+      "alt_adj": "An old tower rested in the field.",
+      "non_linked": "The huge shadow and the tower were there."
+    }
+  },
+  {
+    "name": "massive ant",
+    "target": " ant",
+    "adjective": " massive",
+    "sentences": {
+      "main": "A massive ant appeared nearby.",
+      "no_adj": "An ant appeared nearby.",
+      "alt_adj": "A young ant appeared nearby.",
+      "non_linked": "The massive crowd and the ant were there."
+    }
+  },
+  {
+    "name": "enormous elephant",
+    "target": " elephant",
+    "adjective": " enormous",
+    "sentences": {
+      "main": "The enormous elephant loomed over us.",
+      "no_adj": "The elephant loomed over us.",
+      "alt_adj": "The quiet elephant loomed over us.",
+      "non_linked": "The enormous hill and the elephant were there."
+    }
+  },
+  {
+    "name": "miniature insect",
+    "target": " insect",
+    "adjective": " miniature",
+    "sentences": {
+      "main": "A miniature insect rested in the field.",
+      "no_adj": "An insect rested in the field.",
+      "alt_adj": "A gentle insect rested in the field.",
+      "non_linked": "The miniature stone and the insect were there."
+    }
+  },
+  {
+    "name": "colossal castle",
+    "target": " castle",
+    "adjective": " colossal",
+    "sentences": {
+      "main": "A colossal castle appeared nearby.",
+      "no_adj": "A castle appeared nearby.",
+      "alt_adj": "A fierce castle appeared nearby.",
+      "non_linked": "The colossal cloud and the castle were there."
+    }
+  },
+  {
+    "name": "gigantic mountain",
+    "target": " mountain",
+    "adjective": " gigantic",
+    "sentences": {
+      "main": "A gigantic mountain rested in the field.",
+      "no_adj": "A mountain rested in the field.",
+      "alt_adj": "A grey mountain rested in the field.",
+      "non_linked": "The gigantic wave and the mountain were there."
+    }
+  },
+  {
+    "name": "small kitten",
+    "target": " kitten",
+    "adjective": " small",
+    "sentences": {
+      "main": "A small kitten appeared nearby.",
+      "no_adj": "A kitten appeared nearby.",
+      "alt_adj": "A brown kitten appeared nearby.",
+      "non_linked": "The small insect and the kitten were there."
+    }
+  },
+  {
+    "name": "large building",
+    "target": " building",
+    "adjective": " large",
+    "sentences": {
+      "main": "The large building loomed over us.",
+      "no_adj": "The building loomed over us.",
+      "alt_adj": "The old building loomed over us.",
+      "non_linked": "The large shadow and the building were there."
+    }
+  },
+  {
+    "name": "vast statue",
+    "target": " statue",
+    "adjective": " vast",
+    "sentences": {
+      "main": "A vast statue rested in the field.",
+      "no_adj": "A statue rested in the field.",
+      "alt_adj": "A young statue rested in the field.",
+      "non_linked": "The vast crowd and the statue were there."
+    }
+  },
+  {
+    "name": "immense boulder",
+    "target": " boulder",
+    "adjective": " immense",
+    "sentences": {
+      "main": "An immense boulder appeared nearby.",
+      "no_adj": "A boulder appeared nearby.",
+      "alt_adj": "A quiet boulder appeared nearby.",
+      "non_linked": "The immense hill and the boulder were there."
+    }
+  },
+  {
+    "name": "towering oak",
+    "target": " oak",
+    "adjective": " towering",
+    "sentences": {
+      "main": "A towering oak rested in the field.",
+      "no_adj": "An oak rested in the field.",
+      "alt_adj": "A fierce oak rested in the field.",
+      "non_linked": "The towering cloud and the oak were there."
+    }
+  },
+  {
+    "name": "compact cottage",
+    "target": " cottage",
+    "adjective": " compact",
+    "sentences": {
+      "main": "A compact cottage appeared nearby.",
+      "no_adj": "A cottage appeared nearby.",
+      "alt_adj": "A calm cottage appeared nearby.",
+      "non_linked": "The compact field and the cottage were there."
+    }
+  },
+  {
+    "name": "grand cathedral",
+    "target": " cathedral",
+    "adjective": " grand",
+    "sentences": {
+      "main": "The grand cathedral loomed over us.",
+      "no_adj": "The cathedral loomed over us.",
+      "alt_adj": "The grey cathedral loomed over us.",
+      "non_linked": "The grand wave and the cathedral were there."
+    }
+  },
+  {
+    "name": "slight seed",
+    "target": " seed",
+    "adjective": " slight",
+    "sentences": {
+      "main": "A slight seed rested in the field.",
+      "no_adj": "A seed rested in the field.",
+      "alt_adj": "A brown seed rested in the field.",
+      "non_linked": "The slight insect and the seed were there."
+    }
+  },
+  {
+    "name": "bulky truck",
+    "target": " truck",
+    "adjective": " bulky",
+    "sentences": {
+      "main": "A bulky truck appeared nearby.",
+      "no_adj": "A truck appeared nearby.",
+      "alt_adj": "An old truck appeared nearby.",
+      "non_linked": "The bulky shadow and the truck were there."
+    }
+  },
+  {
+    "name": "little puppy",
+    "target": " puppy",
+    "adjective": " little",
+    "sentences": {
+      "main": "The little puppy loomed over us.",
+      "no_adj": "The puppy loomed over us.",
+      "alt_adj": "The young puppy loomed over us.",
+      "non_linked": "The little crowd and the puppy were there."
+    }
+  },
+  {
+    "name": "giant shark",
+    "target": " shark",
+    "adjective": " giant",
+    "sentences": {
+      "main": "A giant shark rested in the field.",
+      "no_adj": "A shark rested in the field.",
+      "alt_adj": "A quiet shark rested in the field.",
+      "non_linked": "The giant hill and the shark were there."
+    }
+  },
+  {
+    "name": "tiny rat",
+    "target": " rat",
+    "adjective": " tiny",
+    "sentences": {
+      "main": "A tiny rat appeared nearby.",
+      "no_adj": "A rat appeared nearby.",
+      "alt_adj": "A gentle rat appeared nearby.",
+      "non_linked": "The tiny stone and the rat were there."
+    }
+  },
+  {
+    "name": "massive beetle",
+    "target": " beetle",
+    "adjective": " massive",
+    "sentences": {
+      "main": "A massive beetle rested in the field.",
+      "no_adj": "A beetle rested in the field.",
+      "alt_adj": "A calm beetle rested in the field.",
+      "non_linked": "The massive field and the beetle were there."
+    }
+  },
+  {
+    "name": "colossal fortress",
+    "target": " fortress",
+    "adjective": " colossal",
+    "sentences": {
+      "main": "A colossal fortress rested in the field.",
+      "no_adj": "A fortress rested in the field.",
+      "alt_adj": "An old fortress rested in the field.",
+      "non_linked": "The colossal shadow and the fortress were there."
+    }
+  },
+  {
+    "name": "gigantic ridge",
+    "target": " ridge",
+    "adjective": " gigantic",
+    "sentences": {
+      "main": "The gigantic ridge loomed over us.",
+      "no_adj": "The ridge loomed over us.",
+      "alt_adj": "The quiet ridge loomed over us.",
+      "non_linked": "The gigantic hill and the ridge were there."
+    }
+  },
+  {
+    "name": "small cub",
+    "target": " cub",
+    "adjective": " small",
+    "sentences": {
+      "main": "A small cub rested in the field.",
+      "no_adj": "A cub rested in the field.",
+      "alt_adj": "A gentle cub rested in the field.",
+      "non_linked": "The small stone and the cub were there."
+    }
+  },
+  {
+    "name": "large warehouse",
+    "target": " warehouse",
+    "adjective": " large",
+    "sentences": {
+      "main": "A large warehouse appeared nearby.",
+      "no_adj": "A warehouse appeared nearby.",
+      "alt_adj": "A fierce warehouse appeared nearby.",
+      "non_linked": "The large cloud and the warehouse were there."
+    }
+  },
+  {
+    "name": "vast monument",
+    "target": " monument",
+    "adjective": " vast",
+    "sentences": {
+      "main": "The vast monument loomed over us.",
+      "no_adj": "The monument loomed over us.",
+      "alt_adj": "The calm monument loomed over us.",
+      "non_linked": "The vast field and the monument were there."
+    }
+  },
+  {
+    "name": "immense rock",
+    "target": " rock",
+    "adjective": " immense",
+    "sentences": {
+      "main": "An immense rock rested in the field.",
+      "no_adj": "A rock rested in the field.",
+      "alt_adj": "A grey rock rested in the field.",
+      "non_linked": "The immense wave and the rock were there."
+    }
+  },
+  {
+    "name": "towering pine",
+    "target": " pine",
+    "adjective": " towering",
+    "sentences": {
+      "main": "The towering pine loomed over us.",
+      "no_adj": "The pine loomed over us.",
+      "alt_adj": "The old pine loomed over us.",
+      "non_linked": "The towering shadow and the pine were there."
+    }
+  },
+  {
+    "name": "compact hut",
+    "target": " hut",
+    "adjective": " compact",
+    "sentences": {
+      "main": "A compact hut rested in the field.",
+      "no_adj": "A hut rested in the field.",
+      "alt_adj": "A young hut rested in the field.",
+      "non_linked": "The compact crowd and the hut were there."
+    }
+  },
+  {
+    "name": "bulky van",
+    "target": " van",
+    "adjective": " bulky",
+    "sentences": {
+      "main": "A bulky van rested in the field.",
+      "no_adj": "A van rested in the field.",
+      "alt_adj": "A fierce van rested in the field.",
+      "non_linked": "The bulky cloud and the van were there."
+    }
+  },
+  {
+    "name": "little kitten",
+    "target": " kitten",
+    "adjective": " little",
+    "sentences": {
+      "main": "A little kitten appeared nearby.",
+      "no_adj": "A kitten appeared nearby.",
+      "alt_adj": "A calm kitten appeared nearby.",
+      "non_linked": "The little field and the kitten were there."
+    }
+  },
+  {
+    "name": "wooden table",
+    "target": " table",
+    "adjective": " wooden",
+    "sentences": {
+      "main": "The wooden table stood in the room.",
+      "no_adj": "The table stood in the room.",
+      "alt_adj": "The round table stood in the room.",
+      "non_linked": "The wooden chair and the table were there."
+    }
+  },
+  {
+    "name": "stone castle",
+    "target": " castle",
+    "adjective": " stone",
+    "sentences": {
+      "main": "A stone castle lay on the floor.",
+      "no_adj": "A castle lay on the floor.",
+      "alt_adj": "An old castle lay on the floor.",
+      "non_linked": "The stone wall and the castle were there."
+    }
+  },
+  {
+    "name": "metal sword",
+    "target": " sword",
+    "adjective": " metal",
+    "sentences": {
+      "main": "The metal sword gleamed faintly.",
+      "no_adj": "The sword gleamed faintly.",
+      "alt_adj": "The large sword gleamed faintly.",
+      "non_linked": "The metal box and the sword were there."
+    }
+  },
+  {
+    "name": "glass window",
+    "target": " window",
+    "adjective": " glass",
+    "sentences": {
+      "main": "A glass window lay on the floor.",
+      "no_adj": "A window lay on the floor.",
+      "alt_adj": "An ornate window lay on the floor.",
+      "non_linked": "The glass shelf and the window were there."
+    }
+  },
+  {
+    "name": "iron gate",
+    "target": " gate",
+    "adjective": " iron",
+    "sentences": {
+      "main": "The iron gate gleamed faintly.",
+      "no_adj": "The gate gleamed faintly.",
+      "alt_adj": "The plain gate gleamed faintly.",
+      "non_linked": "The iron door and the gate were there."
+    }
+  },
+  {
+    "name": "silver coin",
+    "target": " coin",
+    "adjective": " silver",
+    "sentences": {
+      "main": "The silver coin stood in the room.",
+      "no_adj": "The coin stood in the room.",
+      "alt_adj": "The heavy coin stood in the room.",
+      "non_linked": "The silver stand and the coin were there."
+    }
+  },
+  {
+    "name": "plastic chair",
+    "target": " chair",
+    "adjective": " plastic",
+    "sentences": {
+      "main": "A plastic chair lay on the floor.",
+      "no_adj": "A chair lay on the floor.",
+      "alt_adj": "A narrow chair lay on the floor.",
+      "non_linked": "The plastic crate and the chair were there."
+    }
+  },
+  {
+    "name": "bronze statue",
+    "target": " statue",
+    "adjective": " bronze",
+    "sentences": {
+      "main": "The bronze statue gleamed faintly.",
+      "no_adj": "The statue gleamed faintly.",
+      "alt_adj": "The round statue gleamed faintly.",
+      "non_linked": "The bronze chair and the statue were there."
+    }
+  },
+  {
+    "name": "marble floor",
+    "target": " floor",
+    "adjective": " marble",
+    "sentences": {
+      "main": "The marble floor stood in the room.",
+      "no_adj": "The floor stood in the room.",
+      "alt_adj": "The old floor stood in the room.",
+      "non_linked": "The marble wall and the floor were there."
+    }
+  },
+  {
+    "name": "leather boot",
+    "target": " boot",
+    "adjective": " leather",
+    "sentences": {
+      "main": "A leather boot lay on the floor.",
+      "no_adj": "A boot lay on the floor.",
+      "alt_adj": "A large boot lay on the floor.",
+      "non_linked": "The leather box and the boot were there."
+    }
+  },
+  {
+    "name": "clay pot",
+    "target": " pot",
+    "adjective": " clay",
+    "sentences": {
+      "main": "The clay pot gleamed faintly.",
+      "no_adj": "The pot gleamed faintly.",
+      "alt_adj": "The small pot gleamed faintly.",
+      "non_linked": "The clay floor and the pot were there."
+    }
+  },
+  {
+    "name": "copper kettle",
+    "target": " kettle",
+    "adjective": " copper",
+    "sentences": {
+      "main": "The copper kettle stood in the room.",
+      "no_adj": "The kettle stood in the room.",
+      "alt_adj": "The ornate kettle stood in the room.",
+      "non_linked": "The copper shelf and the kettle were there."
+    }
+  },
+  {
+    "name": "steel beam",
+    "target": " beam",
+    "adjective": " steel",
+    "sentences": {
+      "main": "A steel beam lay on the floor.",
+      "no_adj": "A beam lay on the floor.",
+      "alt_adj": "A plain beam lay on the floor.",
+      "non_linked": "The steel door and the beam were there."
+    }
+  },
+  {
+    "name": "wax candle",
+    "target": " candle",
+    "adjective": " wax",
+    "sentences": {
+      "main": "The wax candle gleamed faintly.",
+      "no_adj": "The candle gleamed faintly.",
+      "alt_adj": "The heavy candle gleamed faintly.",
+      "non_linked": "The wax stand and the candle were there."
+    }
+  },
+  {
+    "name": "paper lantern",
+    "target": " lantern",
+    "adjective": " paper",
+    "sentences": {
+      "main": "The paper lantern stood in the room.",
+      "no_adj": "The lantern stood in the room.",
+      "alt_adj": "The narrow lantern stood in the room.",
+      "non_linked": "The paper crate and the lantern were there."
+    }
+  },
+  {
+    "name": "ceramic bowl",
+    "target": " bowl",
+    "adjective": " ceramic",
+    "sentences": {
+      "main": "The ceramic bowl gleamed faintly.",
+      "no_adj": "The bowl gleamed faintly.",
+      "alt_adj": "The old bowl gleamed faintly.",
+      "non_linked": "The ceramic wall and the bowl were there."
+    }
+  },
+  {
+    "name": "bamboo fence",
+    "target": " fence",
+    "adjective": " bamboo",
+    "sentences": {
+      "main": "The bamboo fence stood in the room.",
+      "no_adj": "The fence stood in the room.",
+      "alt_adj": "The large fence stood in the room.",
+      "non_linked": "The bamboo box and the fence were there."
+    }
+  },
+  {
+    "name": "granite pillar",
+    "target": " pillar",
+    "adjective": " granite",
+    "sentences": {
+      "main": "A granite pillar lay on the floor.",
+      "no_adj": "A pillar lay on the floor.",
+      "alt_adj": "A small pillar lay on the floor.",
+      "non_linked": "The granite floor and the pillar were there."
+    }
+  },
+  {
+    "name": "wooden desk",
+    "target": " desk",
+    "adjective": " wooden",
+    "sentences": {
+      "main": "The wooden desk gleamed faintly.",
+      "no_adj": "The desk gleamed faintly.",
+      "alt_adj": "The ornate desk gleamed faintly.",
+      "non_linked": "The wooden shelf and the desk were there."
+    }
+  },
+  {
+    "name": "stone tower",
+    "target": " tower",
+    "adjective": " stone",
+    "sentences": {
+      "main": "The stone tower stood in the room.",
+      "no_adj": "The tower stood in the room.",
+      "alt_adj": "The plain tower stood in the room.",
+      "non_linked": "The stone door and the tower were there."
+    }
+  },
+  {
+    "name": "metal blade",
+    "target": " blade",
+    "adjective": " metal",
+    "sentences": {
+      "main": "A metal blade lay on the floor.",
+      "no_adj": "A blade lay on the floor.",
+      "alt_adj": "A heavy blade lay on the floor.",
+      "non_linked": "The metal stand and the blade were there."
+    }
+  },
+  {
+    "name": "golden cup",
+    "target": " cup",
+    "adjective": " golden",
+    "sentences": {
+      "main": "The golden cup gleamed faintly.",
+      "no_adj": "The cup gleamed faintly.",
+      "alt_adj": "The narrow cup gleamed faintly.",
+      "non_linked": "The golden crate and the cup were there."
+    }
+  },
+  {
+    "name": "glass pane",
+    "target": " pane",
+    "adjective": " glass",
+    "sentences": {
+      "main": "The glass pane stood in the room.",
+      "no_adj": "The pane stood in the room.",
+      "alt_adj": "The round pane stood in the room.",
+      "non_linked": "The glass chair and the pane were there."
+    }
+  },
+  {
+    "name": "iron fence",
+    "target": " fence",
+    "adjective": " iron",
+    "sentences": {
+      "main": "An iron fence lay on the floor.",
+      "no_adj": "A fence lay on the floor.",
+      "alt_adj": "An old fence lay on the floor.",
+      "non_linked": "The iron wall and the fence were there."
+    }
+  },
+  {
+    "name": "silver medal",
+    "target": " medal",
+    "adjective": " silver",
+    "sentences": {
+      "main": "The silver medal gleamed faintly.",
+      "no_adj": "The medal gleamed faintly.",
+      "alt_adj": "The large medal gleamed faintly.",
+      "non_linked": "The silver box and the medal were there."
+    }
+  },
+  {
+    "name": "plastic stool",
+    "target": " stool",
+    "adjective": " plastic",
+    "sentences": {
+      "main": "The plastic stool stood in the room.",
+      "no_adj": "The stool stood in the room.",
+      "alt_adj": "The small stool stood in the room.",
+      "non_linked": "The plastic floor and the stool were there."
+    }
+  },
+  {
+    "name": "bronze figure",
+    "target": " figure",
+    "adjective": " bronze",
+    "sentences": {
+      "main": "A bronze figure lay on the floor.",
+      "no_adj": "A figure lay on the floor.",
+      "alt_adj": "An ornate figure lay on the floor.",
+      "non_linked": "The bronze shelf and the figure were there."
+    }
+  },
+  {
+    "name": "marble tile",
+    "target": " tile",
+    "adjective": " marble",
+    "sentences": {
+      "main": "The marble tile gleamed faintly.",
+      "no_adj": "The tile gleamed faintly.",
+      "alt_adj": "The plain tile gleamed faintly.",
+      "non_linked": "The marble door and the tile were there."
+    }
+  },
+  {
+    "name": "leather glove",
+    "target": " glove",
+    "adjective": " leather",
+    "sentences": {
+      "main": "The leather glove stood in the room.",
+      "no_adj": "The glove stood in the room.",
+      "alt_adj": "The heavy glove stood in the room.",
+      "non_linked": "The leather stand and the glove were there."
+    }
+  },
+  {
+    "name": "clay jar",
+    "target": " jar",
+    "adjective": " clay",
+    "sentences": {
+      "main": "A clay jar lay on the floor.",
+      "no_adj": "A jar lay on the floor.",
+      "alt_adj": "A narrow jar lay on the floor.",
+      "non_linked": "The clay crate and the jar were there."
+    }
+  },
+  {
+    "name": "copper pan",
+    "target": " pan",
+    "adjective": " copper",
+    "sentences": {
+      "main": "The copper pan gleamed faintly.",
+      "no_adj": "The pan gleamed faintly.",
+      "alt_adj": "The round pan gleamed faintly.",
+      "non_linked": "The copper chair and the pan were there."
+    }
+  },
+  {
+    "name": "steel plank",
+    "target": " plank",
+    "adjective": " steel",
+    "sentences": {
+      "main": "The steel plank stood in the room.",
+      "no_adj": "The plank stood in the room.",
+      "alt_adj": "The old plank stood in the room.",
+      "non_linked": "The steel wall and the plank were there."
+    }
+  },
+  {
+    "name": "wax torch",
+    "target": " torch",
+    "adjective": " wax",
+    "sentences": {
+      "main": "A wax torch lay on the floor.",
+      "no_adj": "A torch lay on the floor.",
+      "alt_adj": "A large torch lay on the floor.",
+      "non_linked": "The wax box and the torch were there."
+    }
+  },
+  {
+    "name": "paper lamp",
+    "target": " lamp",
+    "adjective": " paper",
+    "sentences": {
+      "main": "The paper lamp gleamed faintly.",
+      "no_adj": "The lamp gleamed faintly.",
+      "alt_adj": "The small lamp gleamed faintly.",
+      "non_linked": "The paper floor and the lamp were there."
+    }
+  },
+  {
+    "name": "ceramic plate",
+    "target": " plate",
+    "adjective": " ceramic",
+    "sentences": {
+      "main": "A ceramic plate lay on the floor.",
+      "no_adj": "A plate lay on the floor.",
+      "alt_adj": "A plain plate lay on the floor.",
+      "non_linked": "The ceramic door and the plate were there."
+    }
+  },
+  {
+    "name": "bamboo rail",
+    "target": " rail",
+    "adjective": " bamboo",
+    "sentences": {
+      "main": "The bamboo rail gleamed faintly.",
+      "no_adj": "The rail gleamed faintly.",
+      "alt_adj": "The heavy rail gleamed faintly.",
+      "non_linked": "The bamboo stand and the rail were there."
+    }
+  },
+  {
+    "name": "granite column",
+    "target": " column",
+    "adjective": " granite",
+    "sentences": {
+      "main": "The granite column stood in the room.",
+      "no_adj": "The column stood in the room.",
+      "alt_adj": "The narrow column stood in the room.",
+      "non_linked": "The granite crate and the column were there."
+    }
+  },
+  {
+    "name": "angry judge",
+    "target": " judge",
+    "adjective": " angry",
+    "sentences": {
+      "main": "The angry judge entered the room.",
+      "no_adj": "The judge entered the room.",
+      "alt_adj": "The old judge entered the room.",
+      "non_linked": "The angry crowd and the judge were there."
+    }
+  },
+  {
+    "name": "tired soldier",
+    "target": " soldier",
+    "adjective": " tired",
+    "sentences": {
+      "main": "A tired soldier spoke up.",
+      "no_adj": "A soldier spoke up.",
+      "alt_adj": "A young soldier spoke up.",
+      "non_linked": "The tired nurse and the soldier were there."
+    }
+  },
+  {
+    "name": "happy child",
+    "target": " child",
+    "adjective": " happy",
+    "sentences": {
+      "main": "The happy child turned away.",
+      "no_adj": "The child turned away.",
+      "alt_adj": "The tall child turned away.",
+      "non_linked": "The happy mob and the child were there."
+    }
+  },
+  {
+    "name": "sad king",
+    "target": " king",
+    "adjective": " sad",
+    "sentences": {
+      "main": "The sad king entered the room.",
+      "no_adj": "The king entered the room.",
+      "alt_adj": "The quiet king entered the room.",
+      "non_linked": "The sad child and the king were there."
+    }
+  },
+  {
+    "name": "fearful nurse",
+    "target": " nurse",
+    "adjective": " fearful",
+    "sentences": {
+      "main": "A fearful nurse spoke up.",
+      "no_adj": "A nurse spoke up.",
+      "alt_adj": "A calm nurse spoke up.",
+      "non_linked": "The fearful guest and the nurse were there."
+    }
+  },
+  {
+    "name": "joyful teacher",
+    "target": " teacher",
+    "adjective": " joyful",
+    "sentences": {
+      "main": "The joyful teacher turned away.",
+      "no_adj": "The teacher turned away.",
+      "alt_adj": "The stern teacher turned away.",
+      "non_linked": "The joyful patient and the teacher were there."
+    }
+  },
+  {
+    "name": "anxious stranger",
+    "target": " stranger",
+    "adjective": " anxious",
+    "sentences": {
+      "main": "The anxious stranger entered the room.",
+      "no_adj": "The stranger entered the room.",
+      "alt_adj": "The gentle stranger entered the room.",
+      "non_linked": "The anxious visitor and the stranger were there."
+    }
+  },
+  {
+    "name": "calm captain",
+    "target": " captain",
+    "adjective": " calm",
+    "sentences": {
+      "main": "A calm captain spoke up.",
+      "no_adj": "A captain spoke up.",
+      "alt_adj": "A serious captain spoke up.",
+      "non_linked": "The calm clerk and the captain were there."
+    }
+  },
+  {
+    "name": "furious widow",
+    "target": " widow",
+    "adjective": " furious",
+    "sentences": {
+      "main": "The furious widow turned away.",
+      "no_adj": "The widow turned away.",
+      "alt_adj": "The old widow turned away.",
+      "non_linked": "The furious crowd and the widow were there."
+    }
+  },
+  {
+    "name": "weary clerk",
+    "target": " clerk",
+    "adjective": " weary",
+    "sentences": {
+      "main": "The weary clerk entered the room.",
+      "no_adj": "The clerk entered the room.",
+      "alt_adj": "The young clerk entered the room.",
+      "non_linked": "The weary nurse and the clerk were there."
+    }
+  },
+  {
+    "name": "cheerful pilot",
+    "target": " pilot",
+    "adjective": " cheerful",
+    "sentences": {
+      "main": "A cheerful pilot spoke up.",
+      "no_adj": "A pilot spoke up.",
+      "alt_adj": "A tall pilot spoke up.",
+      "non_linked": "The cheerful mob and the pilot were there."
+    }
+  },
+  {
+    "name": "gloomy waiter",
+    "target": " waiter",
+    "adjective": " gloomy",
+    "sentences": {
+      "main": "The gloomy waiter turned away.",
+      "no_adj": "The waiter turned away.",
+      "alt_adj": "The quiet waiter turned away.",
+      "non_linked": "The gloomy child and the waiter were there."
+    }
+  },
+  {
+    "name": "nervous prisoner",
+    "target": " prisoner",
+    "adjective": " nervous",
+    "sentences": {
+      "main": "The nervous prisoner entered the room.",
+      "no_adj": "The prisoner entered the room.",
+      "alt_adj": "The calm prisoner entered the room.",
+      "non_linked": "The nervous guest and the prisoner were there."
+    }
+  },
+  {
+    "name": "content actor",
+    "target": " actor",
+    "adjective": " content",
+    "sentences": {
+      "main": "A content actor spoke up.",
+      "no_adj": "An actor spoke up.",
+      "alt_adj": "A stern actor spoke up.",
+      "non_linked": "The content patient and the actor were there."
+    }
+  },
+  {
+    "name": "excited mayor",
+    "target": " mayor",
+    "adjective": " excited",
+    "sentences": {
+      "main": "The excited mayor entered the room.",
+      "no_adj": "The mayor entered the room.",
+      "alt_adj": "The serious mayor entered the room.",
+      "non_linked": "The excited clerk and the mayor were there."
+    }
+  },
+  {
+    "name": "lonely guardian",
+    "target": " guardian",
+    "adjective": " lonely",
+    "sentences": {
+      "main": "A lonely guardian spoke up.",
+      "no_adj": "A guardian spoke up.",
+      "alt_adj": "An old guardian spoke up.",
+      "non_linked": "The lonely crowd and the guardian were there."
+    }
+  },
+  {
+    "name": "proud servant",
+    "target": " servant",
+    "adjective": " proud",
+    "sentences": {
+      "main": "The proud servant turned away.",
+      "no_adj": "The servant turned away.",
+      "alt_adj": "The young servant turned away.",
+      "non_linked": "The proud nurse and the servant were there."
+    }
+  },
+  {
+    "name": "ashamed witness",
+    "target": " witness",
+    "adjective": " ashamed",
+    "sentences": {
+      "main": "The ashamed witness entered the room.",
+      "no_adj": "The witness entered the room.",
+      "alt_adj": "The tall witness entered the room.",
+      "non_linked": "The ashamed mob and the witness were there."
+    }
+  },
+  {
+    "name": "hopeful tailor",
+    "target": " tailor",
+    "adjective": " hopeful",
+    "sentences": {
+      "main": "A hopeful tailor spoke up.",
+      "no_adj": "A tailor spoke up.",
+      "alt_adj": "A quiet tailor spoke up.",
+      "non_linked": "The hopeful child and the tailor were there."
+    }
+  },
+  {
+    "name": "angry officer",
+    "target": " officer",
+    "adjective": " angry",
+    "sentences": {
+      "main": "The angry officer turned away.",
+      "no_adj": "The officer turned away.",
+      "alt_adj": "The calm officer turned away.",
+      "non_linked": "The angry guest and the officer were there."
+    }
+  },
+  {
+    "name": "tired veteran",
+    "target": " veteran",
+    "adjective": " tired",
+    "sentences": {
+      "main": "The tired veteran entered the room.",
+      "no_adj": "The veteran entered the room.",
+      "alt_adj": "The stern veteran entered the room.",
+      "non_linked": "The tired patient and the veteran were there."
+    }
+  },
+  {
+    "name": "happy boy",
+    "target": " boy",
+    "adjective": " happy",
+    "sentences": {
+      "main": "A happy boy spoke up.",
+      "no_adj": "A boy spoke up.",
+      "alt_adj": "A gentle boy spoke up.",
+      "non_linked": "The happy visitor and the boy were there."
+    }
+  },
+  {
+    "name": "sad prince",
+    "target": " prince",
+    "adjective": " sad",
+    "sentences": {
+      "main": "The sad prince turned away.",
+      "no_adj": "The prince turned away.",
+      "alt_adj": "The serious prince turned away.",
+      "non_linked": "The sad clerk and the prince were there."
+    }
+  },
+  {
+    "name": "fearful doctor",
+    "target": " doctor",
+    "adjective": " fearful",
+    "sentences": {
+      "main": "The fearful doctor entered the room.",
+      "no_adj": "The doctor entered the room.",
+      "alt_adj": "The old doctor entered the room.",
+      "non_linked": "The fearful crowd and the doctor were there."
+    }
+  },
+  {
+    "name": "joyful tutor",
+    "target": " tutor",
+    "adjective": " joyful",
+    "sentences": {
+      "main": "A joyful tutor spoke up.",
+      "no_adj": "A tutor spoke up.",
+      "alt_adj": "A young tutor spoke up.",
+      "non_linked": "The joyful nurse and the tutor were there."
+    }
+  },
+  {
+    "name": "anxious traveler",
+    "target": " traveler",
+    "adjective": " anxious",
+    "sentences": {
+      "main": "The anxious traveler turned away.",
+      "no_adj": "The traveler turned away.",
+      "alt_adj": "The tall traveler turned away.",
+      "non_linked": "The anxious mob and the traveler were there."
+    }
+  },
+  {
+    "name": "calm sergeant",
+    "target": " sergeant",
+    "adjective": " calm",
+    "sentences": {
+      "main": "The calm sergeant entered the room.",
+      "no_adj": "The sergeant entered the room.",
+      "alt_adj": "The quiet sergeant entered the room.",
+      "non_linked": "The calm child and the sergeant were there."
+    }
+  },
+  {
+    "name": "cheerful driver",
+    "target": " driver",
+    "adjective": " cheerful",
+    "sentences": {
+      "main": "The cheerful driver entered the room.",
+      "no_adj": "The driver entered the room.",
+      "alt_adj": "The gentle driver entered the room.",
+      "non_linked": "The cheerful visitor and the driver were there."
+    }
+  },
+  {
+    "name": "gloomy cook",
+    "target": " cook",
+    "adjective": " gloomy",
+    "sentences": {
+      "main": "A gloomy cook spoke up.",
+      "no_adj": "A cook spoke up.",
+      "alt_adj": "A serious cook spoke up.",
+      "non_linked": "The gloomy clerk and the cook were there."
+    }
+  },
+  {
+    "name": "nervous captive",
+    "target": " captive",
+    "adjective": " nervous",
+    "sentences": {
+      "main": "The nervous captive turned away.",
+      "no_adj": "The captive turned away.",
+      "alt_adj": "The old captive turned away.",
+      "non_linked": "The nervous crowd and the captive were there."
+    }
+  },
+  {
+    "name": "content singer",
+    "target": " singer",
+    "adjective": " content",
+    "sentences": {
+      "main": "The content singer entered the room.",
+      "no_adj": "The singer entered the room.",
+      "alt_adj": "The young singer entered the room.",
+      "non_linked": "The content nurse and the singer were there."
+    }
+  },
+  {
+    "name": "excited governor",
+    "target": " governor",
+    "adjective": " excited",
+    "sentences": {
+      "main": "The excited governor turned away.",
+      "no_adj": "The governor turned away.",
+      "alt_adj": "The quiet governor turned away.",
+      "non_linked": "The excited child and the governor were there."
+    }
+  },
+  {
+    "name": "lonely keeper",
+    "target": " keeper",
+    "adjective": " lonely",
+    "sentences": {
+      "main": "The lonely keeper entered the room.",
+      "no_adj": "The keeper entered the room.",
+      "alt_adj": "The calm keeper entered the room.",
+      "non_linked": "The lonely guest and the keeper were there."
+    }
+  },
+  {
+    "name": "proud maid",
+    "target": " maid",
+    "adjective": " proud",
+    "sentences": {
+      "main": "A proud maid spoke up.",
+      "no_adj": "A maid spoke up.",
+      "alt_adj": "A stern maid spoke up.",
+      "non_linked": "The proud patient and the maid were there."
+    }
+  },
+  {
+    "name": "Greek queen",
+    "target": " queen",
+    "adjective": " Greek",
+    "sentences": {
+      "main": "The Greek queen entered the hall.",
+      "no_adj": "The queen entered the hall.",
+      "alt_adj": "The old queen entered the hall.",
+      "non_linked": "The Greek guard and the queen were there."
+    }
+  },
+  {
+    "name": "Roman king",
+    "target": " king",
+    "adjective": " Roman",
+    "sentences": {
+      "main": "The Roman king entered the hall.",
+      "no_adj": "The king entered the hall.",
+      "alt_adj": "The old king entered the hall.",
+      "non_linked": "The Roman guard and the king were there."
+    }
+  },
+  {
+    "name": "French knight",
+    "target": " knight",
+    "adjective": " French",
+    "sentences": {
+      "main": "The French knight entered the hall.",
+      "no_adj": "The knight entered the hall.",
+      "alt_adj": "The old knight entered the hall.",
+      "non_linked": "The French guard and the knight were there."
+    }
+  },
+  {
+    "name": "German lord",
+    "target": " lord",
+    "adjective": " German",
+    "sentences": {
+      "main": "The German lord entered the hall.",
+      "no_adj": "The lord entered the hall.",
+      "alt_adj": "The old lord entered the hall.",
+      "non_linked": "The German guard and the lord were there."
+    }
+  },
+  {
+    "name": "Italian duke",
+    "target": " duke",
+    "adjective": " Italian",
+    "sentences": {
+      "main": "The Italian duke entered the hall.",
+      "no_adj": "The duke entered the hall.",
+      "alt_adj": "The old duke entered the hall.",
+      "non_linked": "The Italian guard and the duke were there."
+    }
+  },
+  {
+    "name": "Spanish priest",
+    "target": " priest",
+    "adjective": " Spanish",
+    "sentences": {
+      "main": "The Spanish priest entered the hall.",
+      "no_adj": "The priest entered the hall.",
+      "alt_adj": "The old priest entered the hall.",
+      "non_linked": "The Spanish guard and the priest were there."
+    }
+  },
+  {
+    "name": "Chinese king",
+    "target": " king",
+    "adjective": " Chinese",
+    "sentences": {
+      "main": "The Chinese king entered the hall.",
+      "no_adj": "The king entered the hall.",
+      "alt_adj": "The old king entered the hall.",
+      "non_linked": "The Chinese guard and the king were there."
+    }
+  },
+  {
+    "name": "Russian queen",
+    "target": " queen",
+    "adjective": " Russian",
+    "sentences": {
+      "main": "The Russian queen entered the hall.",
+      "no_adj": "The queen entered the hall.",
+      "alt_adj": "The old queen entered the hall.",
+      "non_linked": "The Russian guard and the queen were there."
+    }
+  },
+  {
+    "name": "Polish lord",
+    "target": " lord",
+    "adjective": " Polish",
+    "sentences": {
+      "main": "The Polish lord entered the hall.",
+      "no_adj": "The lord entered the hall.",
+      "alt_adj": "The old lord entered the hall.",
+      "non_linked": "The Polish guard and the lord were there."
+    }
+  },
+  {
+    "name": "Dutch king",
+    "target": " king",
+    "adjective": " Dutch",
+    "sentences": {
+      "main": "The Dutch king entered the hall.",
+      "no_adj": "The king entered the hall.",
+      "alt_adj": "The old king entered the hall.",
+      "non_linked": "The Dutch guard and the king were there."
+    }
+  },
+  {
+    "name": "red ball",
+    "target": " ball",
+    "adjective": " red",
+    "sentences": {
+      "main": "The red ball appeared at dawn.",
+      "no_adj": "The ball appeared at dawn.",
+      "alt_adj": "The new ball appeared at dawn.",
+      "non_linked": "The red wall and the ball were there."
+    }
+  },
+  {
+    "name": "blue cup",
+    "target": " cup",
+    "adjective": " blue",
+    "sentences": {
+      "main": "The blue cup appeared at dawn.",
+      "no_adj": "The cup appeared at dawn.",
+      "alt_adj": "The new cup appeared at dawn.",
+      "non_linked": "The blue wall and the cup were there."
+    }
+  },
+  {
+    "name": "green leaf",
+    "target": " leaf",
+    "adjective": " green",
+    "sentences": {
+      "main": "The green leaf appeared at dawn.",
+      "no_adj": "The leaf appeared at dawn.",
+      "alt_adj": "The new leaf appeared at dawn.",
+      "non_linked": "The green wall and the leaf were there."
+    }
+  },
+  {
+    "name": "black box",
+    "target": " box",
+    "adjective": " black",
+    "sentences": {
+      "main": "The black box appeared at dawn.",
+      "no_adj": "The box appeared at dawn.",
+      "alt_adj": "The new box appeared at dawn.",
+      "non_linked": "The black wall and the box were there."
+    }
+  },
+  {
+    "name": "white wall",
+    "target": " wall",
+    "adjective": " white",
+    "sentences": {
+      "main": "The white wall appeared at dawn.",
+      "no_adj": "The wall appeared at dawn.",
+      "alt_adj": "The new wall appeared at dawn.",
+      "non_linked": "The white wall and the wall were there."
+    }
+  },
+  {
+    "name": "golden ring",
+    "target": " ring",
+    "adjective": " golden",
+    "sentences": {
+      "main": "The golden ring appeared at dawn.",
+      "no_adj": "The ring appeared at dawn.",
+      "alt_adj": "The new ring appeared at dawn.",
+      "non_linked": "The golden wall and the ring were there."
+    }
+  },
+  {
+    "name": "purple robe",
+    "target": " robe",
+    "adjective": " purple",
+    "sentences": {
+      "main": "The purple robe appeared at dawn.",
+      "no_adj": "The robe appeared at dawn.",
+      "alt_adj": "The new robe appeared at dawn.",
+      "non_linked": "The purple wall and the robe were there."
+    }
+  },
+  {
+    "name": "orange ball",
+    "target": " ball",
+    "adjective": " orange",
+    "sentences": {
+      "main": "The orange ball appeared at dawn.",
+      "no_adj": "The ball appeared at dawn.",
+      "alt_adj": "The new ball appeared at dawn.",
+      "non_linked": "The orange wall and the ball were there."
+    }
+  },
+  {
+    "name": "brown box",
+    "target": " box",
+    "adjective": " brown",
+    "sentences": {
+      "main": "The brown box appeared at dawn.",
+      "no_adj": "The box appeared at dawn.",
+      "alt_adj": "The new box appeared at dawn.",
+      "non_linked": "The brown wall and the box were there."
+    }
+  },
+  {
+    "name": "giant bear",
+    "target": " bear",
+    "adjective": " giant",
+    "sentences": {
+      "main": "A giant bear appeared nearby.",
+      "no_adj": "A bear appeared nearby.",
+      "alt_adj": "A old bear appeared nearby.",
+      "non_linked": "The giant hill and the bear were there."
+    }
+  },
+  {
+    "name": "tiny bug",
+    "target": " bug",
+    "adjective": " tiny",
+    "sentences": {
+      "main": "A tiny bug appeared nearby.",
+      "no_adj": "A bug appeared nearby.",
+      "alt_adj": "A old bug appeared nearby.",
+      "non_linked": "The tiny hill and the bug were there."
+    }
+  },
+  {
+    "name": "huge rock",
+    "target": " rock",
+    "adjective": " huge",
+    "sentences": {
+      "main": "A huge rock appeared nearby.",
+      "no_adj": "A rock appeared nearby.",
+      "alt_adj": "A old rock appeared nearby.",
+      "non_linked": "The huge hill and the rock were there."
+    }
+  },
+  {
+    "name": "small fish",
+    "target": " fish",
+    "adjective": " small",
+    "sentences": {
+      "main": "A small fish appeared nearby.",
+      "no_adj": "A fish appeared nearby.",
+      "alt_adj": "A old fish appeared nearby.",
+      "non_linked": "The small hill and the fish were there."
+    }
+  },
+  {
+    "name": "large ship",
+    "target": " ship",
+    "adjective": " large",
+    "sentences": {
+      "main": "A large ship appeared nearby.",
+      "no_adj": "A ship appeared nearby.",
+      "alt_adj": "A old ship appeared nearby.",
+      "non_linked": "The large hill and the ship were there."
+    }
+  },
+  {
+    "name": "vast field",
+    "target": " field",
+    "adjective": " vast",
+    "sentences": {
+      "main": "A vast field appeared nearby.",
+      "no_adj": "A field appeared nearby.",
+      "alt_adj": "A old field appeared nearby.",
+      "non_linked": "The vast hill and the field were there."
+    }
+  },
+  {
+    "name": "grand hall",
+    "target": " hall",
+    "adjective": " grand",
+    "sentences": {
+      "main": "A grand hall appeared nearby.",
+      "no_adj": "A hall appeared nearby.",
+      "alt_adj": "A old hall appeared nearby.",
+      "non_linked": "The grand hill and the hall were there."
+    }
+  },
+  {
+    "name": "little bird",
+    "target": " bird",
+    "adjective": " little",
+    "sentences": {
+      "main": "A little bird appeared nearby.",
+      "no_adj": "A bird appeared nearby.",
+      "alt_adj": "A old bird appeared nearby.",
+      "non_linked": "The little hill and the bird were there."
+    }
+  },
+  {
+    "name": "massive wall",
+    "target": " wall",
+    "adjective": " massive",
+    "sentences": {
+      "main": "A massive wall appeared nearby.",
+      "no_adj": "A wall appeared nearby.",
+      "alt_adj": "A old wall appeared nearby.",
+      "non_linked": "The massive hill and the wall were there."
+    }
+  },
+  {
+    "name": "enormous ship",
+    "target": " ship",
+    "adjective": " enormous",
+    "sentences": {
+      "main": "A enormous ship appeared nearby.",
+      "no_adj": "A ship appeared nearby.",
+      "alt_adj": "A old ship appeared nearby.",
+      "non_linked": "The enormous hill and the ship were there."
+    }
+  },
+  {
+    "name": "wooden chair",
+    "target": " chair",
+    "adjective": " wooden",
+    "sentences": {
+      "main": "The wooden chair stood in the room.",
+      "no_adj": "The chair stood in the room.",
+      "alt_adj": "The old chair stood in the room.",
+      "non_linked": "The wooden wall and the chair were there."
+    }
+  },
+  {
+    "name": "stone wall",
+    "target": " wall",
+    "adjective": " stone",
+    "sentences": {
+      "main": "The stone wall stood in the room.",
+      "no_adj": "The wall stood in the room.",
+      "alt_adj": "The old wall stood in the room.",
+      "non_linked": "The stone wall and the wall were there."
+    }
+  },
+  {
+    "name": "metal ring",
+    "target": " ring",
+    "adjective": " metal",
+    "sentences": {
+      "main": "The metal ring stood in the room.",
+      "no_adj": "The ring stood in the room.",
+      "alt_adj": "The old ring stood in the room.",
+      "non_linked": "The metal wall and the ring were there."
+    }
+  },
+  {
+    "name": "glass cup",
+    "target": " cup",
+    "adjective": " glass",
+    "sentences": {
+      "main": "The glass cup stood in the room.",
+      "no_adj": "The cup stood in the room.",
+      "alt_adj": "The old cup stood in the room.",
+      "non_linked": "The glass wall and the cup were there."
+    }
+  },
+  {
+    "name": "silver ring",
+    "target": " ring",
+    "adjective": " silver",
+    "sentences": {
+      "main": "The silver ring stood in the room.",
+      "no_adj": "The ring stood in the room.",
+      "alt_adj": "The old ring stood in the room.",
+      "non_linked": "The silver wall and the ring were there."
+    }
+  },
+  {
+    "name": "steel blade",
+    "target": " blade",
+    "adjective": " steel",
+    "sentences": {
+      "main": "The steel blade stood in the room.",
+      "no_adj": "The blade stood in the room.",
+      "alt_adj": "The old blade stood in the room.",
+      "non_linked": "The steel wall and the blade were there."
+    }
+  },
+  {
+    "name": "copper wire",
+    "target": " wire",
+    "adjective": " copper",
+    "sentences": {
+      "main": "The copper wire stood in the room.",
+      "no_adj": "The wire stood in the room.",
+      "alt_adj": "The old wire stood in the room.",
+      "non_linked": "The copper wall and the wire were there."
+    }
+  },
+  {
+    "name": "paper bag",
+    "target": " bag",
+    "adjective": " paper",
+    "sentences": {
+      "main": "The paper bag stood in the room.",
+      "no_adj": "The bag stood in the room.",
+      "alt_adj": "The old bag stood in the room.",
+      "non_linked": "The paper wall and the bag were there."
+    }
+  },
+  {
+    "name": "angry king",
+    "target": " king",
+    "adjective": " angry",
+    "sentences": {
+      "main": "The angry king entered the room.",
+      "no_adj": "The king entered the room.",
+      "alt_adj": "The calm king entered the room.",
+      "non_linked": "The angry crowd and the king were there."
+    }
+  },
+  {
+    "name": "sad boy",
+    "target": " boy",
+    "adjective": " sad",
+    "sentences": {
+      "main": "The sad boy entered the room.",
+      "no_adj": "The boy entered the room.",
+      "alt_adj": "The calm boy entered the room.",
+      "non_linked": "The sad crowd and the boy were there."
+    }
+  },
+  {
+    "name": "proud queen",
+    "target": " queen",
+    "adjective": " proud",
+    "sentences": {
+      "main": "The proud queen entered the room.",
+      "no_adj": "The queen entered the room.",
+      "alt_adj": "The calm queen entered the room.",
+      "non_linked": "The proud crowd and the queen were there."
+    }
+  },
+  {
+    "name": "calm nurse",
+    "target": " nurse",
+    "adjective": " calm",
+    "sentences": {
+      "main": "The calm nurse entered the room.",
+      "no_adj": "The nurse entered the room.",
+      "alt_adj": "The calm nurse entered the room.",
+      "non_linked": "The calm crowd and the nurse were there."
+    }
+  },
+  {
+    "name": "lonely child",
+    "target": " child",
+    "adjective": " lonely",
+    "sentences": {
+      "main": "The lonely child entered the room.",
+      "no_adj": "The child entered the room.",
+      "alt_adj": "The calm child entered the room.",
+      "non_linked": "The lonely crowd and the child were there."
+    }
+  },
+  {
+    "name": "tired guard",
+    "target": " guard",
+    "adjective": " tired",
+    "sentences": {
+      "main": "The tired guard entered the room.",
+      "no_adj": "The guard entered the room.",
+      "alt_adj": "The calm guard entered the room.",
+      "non_linked": "The tired crowd and the guard were there."
+    }
+  },
+  {
+    "name": "excited boy",
+    "target": " boy",
+    "adjective": " excited",
+    "sentences": {
+      "main": "The excited boy entered the room.",
+      "no_adj": "The boy entered the room.",
+      "alt_adj": "The calm boy entered the room.",
+      "non_linked": "The excited crowd and the boy were there."
+    }
+  },
+  {
+    "name": "nervous clerk",
+    "target": " clerk",
+    "adjective": " nervous",
+    "sentences": {
+      "main": "The nervous clerk entered the room.",
+      "no_adj": "The clerk entered the room.",
+      "alt_adj": "The calm clerk entered the room.",
+      "non_linked": "The nervous crowd and the clerk were there."
+    }
+  },
+  {
+    "name": "gloomy king",
+    "target": " king",
+    "adjective": " gloomy",
+    "sentences": {
+      "main": "The gloomy king entered the room.",
+      "no_adj": "The king entered the room.",
+      "alt_adj": "The calm king entered the room.",
+      "non_linked": "The gloomy crowd and the king were there."
+    }
+  }
+]
